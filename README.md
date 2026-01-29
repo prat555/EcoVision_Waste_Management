@@ -3,7 +3,7 @@
 
 A smart, AI-powered web platform designed to help users identify, recycle, and responsibly dispose of waste items. Users can scan items using a camera or upload an image, and our AI model provides accurate waste classification with eco-friendly disposal suggestions.
 
-## ✨ Features
+## Features
 
 - **User Authentication**  
   - Sign up and login functionality using Firebase Authentication with email/password and Google sign-in.
@@ -29,7 +29,7 @@ A smart, AI-powered web platform designed to help users identify, recycle, and r
   - Guide Page (with recycling tips and category info)
   - Contact Page
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Layer     | Technology                    |
 |-----------|-------------------------------|
@@ -49,7 +49,7 @@ A smart, AI-powered web platform designed to help users identify, recycle, and r
    - Environmental impact information
 4. **Chat with the AI assistant** for personalized waste management advice.
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 EcoVision/
