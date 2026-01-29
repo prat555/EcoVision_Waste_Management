@@ -69,6 +69,4 @@ EcoVision/
 │   └── index.ts          # Server entry point
 ├── package.json
 └── README.md
----
-
-Made with ♻️ for a sustainable future
+```
